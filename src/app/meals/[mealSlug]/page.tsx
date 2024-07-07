@@ -13,7 +13,7 @@ export default function MealDetails({ params }: any) {
   }
 
   return (
-    <div className="h-screen flex mt-10">
+    <div className="h-full flex mt-10">
       <div className="mx-auto my-auto flex flex-col gap-8">
         <header className="text-center">
           <div className="justify-center flex mb-10">

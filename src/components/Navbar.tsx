@@ -132,6 +132,7 @@ export default function Navbar() {
           </div>
         </div>
       </nav>
+      <div className="relative w-full h-20"></div>
     </main>
   );
 }
